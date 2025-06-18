@@ -54,7 +54,7 @@
 - 👨‍💻 **Intern @ ITeMS, University of Ibadan**  
   Supported IT infrastructure, worked on local software solutions, and gained experience in tech environments.
 
-- 🔧 Check out my portfolio: [folio-plum-kappa.vercel.app](https://folio-plum-kappa.vercel.app/)
+- 🔧 Check out my portfolio: [folio-plum-kappa.vercel.app](https://giwaportfolio.web.app/)
 
 ---
 
