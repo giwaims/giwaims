@@ -54,7 +54,7 @@
 - 👨‍💻 **Intern @ ITeMS, University of Ibadan**  
   Supported IT infrastructure, worked on local software solutions, and gained experience in tech environments.
 
-- 🔧 Check out my portfolio: [https://giwaportfolio.web.app/](https://giwaportfolio.web.app/)
+- 🔧 Check out my portfolio: [giwaportfolio.web.app](https://giwaportfolio.web.app/)
 
 ---
 
